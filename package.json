@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/PROStuff2.lwc-ktvrsdwg",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve bNiCQ63YNs4TcqqDP3Sp --open"
+  }
+}
